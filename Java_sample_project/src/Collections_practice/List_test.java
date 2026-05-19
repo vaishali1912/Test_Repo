@@ -7,7 +7,7 @@ import java.util.*;
 // index based
 // Multiple null allowed
 // duplicate allowed
-
+// requirement ==create list with numbers and multiple null
 public class List_test {
 
 	public static void main(String[] args) {
